@@ -106,7 +106,7 @@ section{
     animation: aparecer-par ease-in-out;
     animation-timeline: view();
     animation-range: cover 0% cover 50%;
-    margin-bottom: 120px;
+    margin-bottom: 140px;
 }
 
 @keyframes aparecer-par{
